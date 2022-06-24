@@ -1,6 +1,6 @@
 const info ={
-    name: 'Ibukunoluwa Akintoib',
-    height: '6feet',
+    name: 'Ibukunoluwa Akintobi',
+    height: '6 feet',
     country: 'Nigeria',
 }
 
